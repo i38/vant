@@ -10,7 +10,6 @@ package-lock.json
 
 # dist file
 es
-lib
 docs/dist
 test/coverage
 packages/icon/svg
