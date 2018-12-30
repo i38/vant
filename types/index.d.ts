@@ -54,7 +54,6 @@ export class RadioGroup extends VanComponent {}
 export class Rate extends VanComponent {}
 export class Row extends VanComponent {}
 export class Search extends VanComponent {}
-export class Sku extends VanComponent {}
 export class Slider extends VanComponent {}
 export class Step extends VanComponent {}
 export class Stepper extends VanComponent {}

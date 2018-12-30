@@ -15,7 +15,6 @@ module.exports = {
     '!**/demo/**',
     '!**/locale/lang/**',
     '!**/waterfall/**',
-    '!**/sku/**',
     '!**/lazyload/**'
   ],
   collectCoverage: true,

@@ -85,8 +85,6 @@ export default {
   'rate.zh-CN': () => import('../../packages/rate/zh-CN.md'),
   'search.en-US': () => import('../../packages/search/en-US.md'),
   'search.zh-CN': () => import('../../packages/search/zh-CN.md'),
-  'sku.en-US': () => import('../../packages/sku/en-US.md'),
-  'sku.zh-CN': () => import('../../packages/sku/zh-CN.md'),
   'slider.en-US': () => import('../../packages/slider/en-US.md'),
   'slider.zh-CN': () => import('../../packages/slider/zh-CN.md'),
   'stepper.en-US': () => import('../../packages/stepper/en-US.md'),

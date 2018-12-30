@@ -38,7 +38,6 @@ export default {
   'radio': () => wrapper(import('../../packages/radio/demo'), 'radio'),
   'rate': () => wrapper(import('../../packages/rate/demo'), 'rate'),
   'search': () => wrapper(import('../../packages/search/demo'), 'search'),
-  'sku': () => wrapper(import('../../packages/sku/demo'), 'sku'),
   'slider': () => wrapper(import('../../packages/slider/demo'), 'slider'),
   'stepper': () => wrapper(import('../../packages/stepper/demo'), 'stepper'),
   'steps': () => wrapper(import('../../packages/steps/demo'), 'steps'),
