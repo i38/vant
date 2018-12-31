@@ -1,5 +1,5 @@
 <template>
-  <i :class="[classPrefix, `${classPrefix}-${name}`]" :style="style" v-on="$listeners">
+  <i :class="name" :style="style" v-on="$listeners">
     <slot />
     <van-info :info="info" />
   </i>
@@ -20,11 +20,7 @@ export default create({
     name: String,
     info: [String, Number],
     color: String,
-    size: String,
-    classPrefix: {
-      type: String,
-      default: 'van-icon'
-    }
+    size: String
   },
 
   computed: {
