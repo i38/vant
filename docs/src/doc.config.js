@@ -267,18 +267,6 @@ module.exports = {
             groupName: '业务组件',
             list: [
               {
-                path: '/address-edit',
-                title: 'AddressEdit 地址编辑'
-              },
-              {
-                path: '/address-list',
-                title: 'AddressList 地址列表'
-              },
-              {
-                path: '/area',
-                title: 'Area 省市区选择'
-              },
-              {
                 path: '/card',
                 title: 'Card 卡片'
               },
@@ -558,18 +546,6 @@ module.exports = {
           {
             groupName: 'Business Components',
             list: [
-              {
-                path: '/address-edit',
-                title: 'AddressEdit'
-              },
-              {
-                path: '/address-list',
-                title: 'AddressList'
-              },
-              {
-                path: '/area',
-                title: 'Area'
-              },
               {
                 path: '/card',
                 title: 'Card'

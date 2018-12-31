@@ -51,8 +51,6 @@
 @import './tree-select.css';
 
 /* business components */
-@import './address-edit.css';
-@import './address-list.css';
 @import './card.css';
 @import './contact-card.css';
 @import './contact-list.css';

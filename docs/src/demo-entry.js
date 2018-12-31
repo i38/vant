@@ -3,9 +3,6 @@ import { wrapper } from './demo-common';
 
 export default {
   'actionsheet': () => wrapper(import('../../packages/actionsheet/demo'), 'actionsheet'),
-  'address-edit': () => wrapper(import('../../packages/address-edit/demo'), 'address-edit'),
-  'address-list': () => wrapper(import('../../packages/address-list/demo'), 'address-list'),
-  'area': () => wrapper(import('../../packages/area/demo'), 'area'),
   'badge': () => wrapper(import('../../packages/badge/demo'), 'badge'),
   'button': () => wrapper(import('../../packages/button/demo'), 'button'),
   'card': () => wrapper(import('../../packages/card/demo'), 'card'),

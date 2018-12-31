@@ -1,8 +1,5 @@
 // This file is auto gererated by build/build-entry.js
 import Actionsheet from './actionsheet';
-import AddressEdit from './address-edit';
-import AddressList from './address-list';
-import Area from './area';
 import Badge from './badge';
 import BadgeGroup from './badge-group';
 import Button from './button';
