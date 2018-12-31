@@ -68,9 +68,6 @@ import Waterfall from './waterfall';
 const version = '1.3.4';
 const components = [
   Actionsheet,
-  AddressEdit,
-  AddressList,
-  Area,
   Badge,
   BadgeGroup,
   Button,
@@ -150,9 +147,6 @@ export {
   install,
   version,
   Actionsheet,
-  AddressEdit,
-  AddressList,
-  Area,
   Badge,
   BadgeGroup,
   Button,

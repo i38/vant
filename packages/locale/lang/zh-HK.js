@@ -46,23 +46,5 @@ export default {
     unlimited: '無使用門檻',
     discount: discount => `${discount}折`,
     condition: (condition) => `滿${condition}元可用`
-  },
-  vanAddressEdit: {
-    area: '地區',
-    postal: '郵政編碼',
-    areaEmpty: '請選擇地區',
-    addressEmpty: '請填寫詳細地址',
-    postalEmpty: '郵政編碼格式不正確',
-    defaultAddress: '設為默認收貨地址',
-    telPlaceholder: '收貨人手機號',
-    namePlaceholder: '收貨人姓名',
-    areaPlaceholder: '選擇省 / 市 / 區'
-  },
-  vanAddressEditDetail: {
-    label: '詳細地址',
-    placeholder: '街道門牌、樓層房間號等信息'
-  },
-  vanAddressList: {
-    add: '新增地址'
   }
 };

@@ -10,9 +10,6 @@ import { ImagePreview } from './image-preview';
 export const version: string
 export function install (vue: typeof Vue): void
 export class Actionsheet extends VanComponent {}
-export class AddressEdit extends VanComponent {}
-export class AddressList extends VanComponent {}
-export class Area extends VanComponent {}
 export class Badge extends VanComponent {}
 export class BadgeGroup extends VanComponent {}
 export class Button extends VanComponent {}
