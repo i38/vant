@@ -6,7 +6,7 @@
   >
     <div :class="b('left')" @click="$emit('click-left')">
       <slot name="left">
-        <icon v-if="leftArrow" :class="b('arrow')" name="arrow" />
+        <icon v-if="leftArrow" :class="b('arrow')" name="ion-ios-arrow-left" />
         <span v-if="leftText" v-text="leftText" :class="b('text')" />
       </slot>
     </div>

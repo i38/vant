@@ -36,7 +36,7 @@
       >
       <icon
         v-if="showClear"
-        name="clear"
+        name="ion-ios-close"
         :class="b('clear')"
         @touchstart.prevent="$emit('input', '')"
       />

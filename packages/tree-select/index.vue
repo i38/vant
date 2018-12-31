@@ -19,7 +19,7 @@
         {{ item.text }}
         <icon
           v-if="activeId === item.id"
-          name="success"
+          name="ion-checkmark"
           :class="b('selected')"
         />
       </div>

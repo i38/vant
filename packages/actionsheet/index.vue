@@ -3,7 +3,7 @@
     <div v-if="shouldRender" v-show="value" :class="b({ 'withtitle': title })">
       <div v-if="title" class="van-hairline--top-bottom" :class="b('header')">
         <div v-text="title" />
-        <icon name="close" @click="onCancel" />
+        <icon name="ion-ios-close-outline" @click="onCancel" />
       </div>
       <ul v-else class="van-hairline--bottom">
         <li

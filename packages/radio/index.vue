@@ -8,7 +8,7 @@
         :class="b('control')"
         :disabled="isDisabled"
       >
-      <icon :name="currentValue === name ? 'checked' : 'check'" />
+      <icon :name="currentValue === name ? 'ion-ios-checkmark' : 'ion-ios-circle-outline'" />
     </span>
     <span v-if="$slots.default" :class="b('label', labelPosition)" @click="onClickLabel">
       <slot />

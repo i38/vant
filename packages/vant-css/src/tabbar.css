@@ -23,9 +23,8 @@
     justify-content: center;
 
     &__icon {
-      font-size: 18px;
+      font-size: 22px;
       position: relative;
-      margin-bottom: 5px;
 
       .van-icon {
         display: block;

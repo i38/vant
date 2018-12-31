@@ -28,7 +28,7 @@
       </slot>
     </div>
     <slot name="right-icon">
-      <icon v-if="isLink" :class="b('right-icon', arrowDirection)" name="arrow" />
+      <icon v-if="isLink" :class="b('right-icon', arrowDirection)" name="ion-ios-arrow-right" />
     </slot>
     <slot name="extra" />
   </div>
