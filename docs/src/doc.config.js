@@ -271,18 +271,6 @@ module.exports = {
                 title: 'Card 卡片'
               },
               {
-                path: '/contact-card',
-                title: 'Contact 联系人'
-              },
-              {
-                path: '/coupon-list',
-                title: 'Coupon 优惠券'
-              },
-              {
-                path: '/goods-action',
-                title: 'GoodsAction 商品页行动点'
-              },
-              {
                 path: '/submit-bar',
                 title: 'SubmitBar 提交订单栏'
               }
@@ -549,18 +537,6 @@ module.exports = {
               {
                 path: '/card',
                 title: 'Card'
-              },
-              {
-                path: '/contact-card',
-                title: 'Contact'
-              },
-              {
-                path: '/coupon-list',
-                title: 'Coupon'
-              },
-              {
-                path: '/goods-action',
-                title: 'GoodsAction'
               },
               {
                 path: '/submit-bar',

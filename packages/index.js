@@ -12,17 +12,9 @@ import Circle from './circle';
 import Col from './col';
 import Collapse from './collapse';
 import CollapseItem from './collapse-item';
-import ContactCard from './contact-card';
-import ContactEdit from './contact-edit';
-import ContactList from './contact-list';
-import CouponCell from './coupon-cell';
-import CouponList from './coupon-list';
 import DatetimePicker from './datetime-picker';
 import Dialog from './dialog';
 import Field from './field';
-import GoodsAction from './goods-action';
-import GoodsActionBigBtn from './goods-action-big-btn';
-import GoodsActionMiniBtn from './goods-action-mini-btn';
 import Icon from './icon';
 import ImagePreview from './image-preview';
 import Info from './info';
@@ -80,17 +72,9 @@ const components = [
   Col,
   Collapse,
   CollapseItem,
-  ContactCard,
-  ContactEdit,
-  ContactList,
-  CouponCell,
-  CouponList,
   DatetimePicker,
   Dialog,
   Field,
-  GoodsAction,
-  GoodsActionBigBtn,
-  GoodsActionMiniBtn,
   Icon,
   ImagePreview,
   Info,
@@ -159,17 +143,9 @@ export {
   Col,
   Collapse,
   CollapseItem,
-  ContactCard,
-  ContactEdit,
-  ContactList,
-  CouponCell,
-  CouponList,
   DatetimePicker,
   Dialog,
   Field,
-  GoodsAction,
-  GoodsActionBigBtn,
-  GoodsActionMiniBtn,
   Icon,
   ImagePreview,
   Info,

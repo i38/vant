@@ -5,7 +5,7 @@
     </div>
     <div :class="b('circle-container')">
       <i :class="b('circle')" v-if="status !== 'process'" />
-      <icon v-else name="ion-ios-checkmark" :style="{ color: $parent.activeColor }" />
+      <i v-else class="step-process ion-ios-checkmark" :style="{ color: $parent.activeColor }" />
     </div>
     <div :class="b('line')" />
   </div>

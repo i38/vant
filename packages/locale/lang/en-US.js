@@ -27,24 +27,5 @@ export default {
   },
   vanSubmitBar: {
     label: 'Total：'
-  },
-  vanCouponCell: {
-    title: 'Coupon',
-    tips: 'Select coupon',
-    count: count => `You have ${count} offers`
-  },
-  vanCouponList: {
-    empty: 'No coupons',
-    exchange: 'Exchange',
-    close: 'Close',
-    enable: 'Available',
-    disabled: 'Unavailable',
-    placeholder: 'Coupon code'
-  },
-  vanCouponItem: {
-    valid: 'Valid',
-    unlimited: 'Unlimited',
-    discount: discount => `${discount * 10}% off`,
-    condition: condition => `At least ${condition}`
   }
 };

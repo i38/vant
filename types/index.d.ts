@@ -24,15 +24,8 @@ export class Col extends VanComponent {}
 export class Collapse extends VanComponent {}
 export class CollapseItem extends VanComponent {}
 export class ContactCard extends VanComponent {}
-export class ContactEdit extends VanComponent {}
-export class ContactList extends VanComponent {}
-export class CouponCell extends VanComponent {}
-export class CouponList extends VanComponent {}
 export class DatetimePicker extends VanComponent {}
 export class Field extends VanComponent {}
-export class GoodsAction extends VanComponent {}
-export class GoodsActionBigBtn extends VanComponent {}
-export class GoodsActionMiniBtn extends VanComponent {}
 export class Icon extends VanComponent {}
 export class List extends VanComponent {}
 export class Loading extends VanComponent {}

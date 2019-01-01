@@ -52,9 +52,4 @@
 
 /* business components */
 @import './card.css';
-@import './contact-card.css';
-@import './contact-list.css';
-@import './contact-edit.css';
-@import './coupon-list.css';
-@import './goods-action.css';
 @import './submit-bar.css';
