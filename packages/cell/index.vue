@@ -19,10 +19,7 @@
         <div v-if="label" v-text="label" :class="b('label')" />
       </slot>
     </div>
-    <div
-      v-if="isDef(value) || $slots.default"
-      :class="b('value', { alone: !$slots.title && !title })"
-    >
+    <div :class="b('value', { alone: !$slots.title && !title })">
       <slot>
         <span v-text="value" />
       </slot>
